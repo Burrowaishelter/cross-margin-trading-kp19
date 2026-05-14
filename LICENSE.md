@@ -1,4 +1,4 @@
-# 
+# automatic cross-margin trading bot Executor | backtesting + cross-margin offers the most advanced cross-margin trading bot, with backtesting and cross-margin. Ideal for
 
 
 
